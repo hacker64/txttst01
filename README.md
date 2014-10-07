@@ -3,7 +3,7 @@ txttst01
 
 Demonstrate how to look for a text (.txt) file, read the file and then update it.
 
-This readme was customized, twice!
+This readme was customized, twice, and three times!
 
 syscall APIs used:
 - dir: get the directory information for the file(s).  This returns an empty ("") string.  The "*" and "?" wildcards are allowed.
