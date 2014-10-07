@@ -3,6 +3,8 @@ txttst01
 
 Demonstrate how to look for a text (.txt) file, read the file and then update it.
 
+This readme was customized!
+
 syscall APIs used:
 - dir: get the directory information for the file(s).  This returns an empty ("") string.  The "*" and "?" wildcards are allowed.
 - dirnext: return the next file from the "dir" command.  This continues until all applicable files have been found, at which point an empty ("") string is returned.  
